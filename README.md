@@ -20,3 +20,9 @@ Step 4. Tampermonkey Dashboard
 Step 5. Installing Darker-Discord
 > Finally! Assuming you still have your file manager opened, grab the `darker-discord.user.js` file and drag it over the Tampermonkey dashboard. This will bring about a lot of scary CSS/JS code (scary). All you need to know is that the "Install" button is your friend and will make it disappear.  
 > Congratulations! **DON'T FORGET TO REFRESH DISCORD...**
+
+### Notice
+This was thrown together in a few hours, and heavily relies on Discord's midnight theme!
+Some stuff may look weird or awkward at times, please keep any criticism to a polite tone. I barely know JavaScript/CSS!
+
+If you work at Discord, **PLEASE** make this an available option for Desktop users!
